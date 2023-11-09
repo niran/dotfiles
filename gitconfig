@@ -1,0 +1,7 @@
+[user]
+	email = niran@niran.org
+	name = Niran Babalola
+[credential "https://github.com"]
+	helper = !gh auth git-credential
+[init]
+	defaultBranch = main
