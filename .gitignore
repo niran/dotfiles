@@ -1,6 +1,3 @@
-config/Code/TransportSecurity
-config/Code/Cache/
-config/Code/User/globalStorage/
-config/Code/User/History/
-config/Code/Network Persistent State
-config/gh/
+config/Code
+config/gh
+config/dconf
