@@ -18,5 +18,5 @@ sudo rm -rf ~/.vimrc > /dev/null 2>&1
 #==============
 ln -s "$dotfiles_dir/gitconfig" ~/.gitconfig
 ln -sf "$dotfiles_dir/vimrc" ~/.vimrc
-mkdir -p "$dotfiles_dir/config/Code/User/"
+mkdir -p ~/.config/Code/User/
 ln -sf "$dotfiles_dir/config/Code/User/settings.json" ~/.config/Code/User/settings.json
