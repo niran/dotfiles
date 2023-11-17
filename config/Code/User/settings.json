@@ -1,4 +1,5 @@
 {
   "editor.tabSize": 2,
   "terminal.integrated.scrollback": 10000,
+  "git.autofetch": true,
 }
