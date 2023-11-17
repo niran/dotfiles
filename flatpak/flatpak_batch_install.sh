@@ -1,4 +1,5 @@
 flatpak install -y \
+  com.github.tchx84.Flatseal \
   de.haeckerfelix.Fragments \
   org.gnome.Calculator \
   org.gnome.Evince \
