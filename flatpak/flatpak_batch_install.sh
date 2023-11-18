@@ -4,4 +4,5 @@ flatpak install -y \
   org.gnome.Calculator \
   org.gnome.Evince \
   org.gnome.TextEditor \
-  org.gnome.Weather 
+  org.gnome.Weather \
+  org.videolan.VLC 
