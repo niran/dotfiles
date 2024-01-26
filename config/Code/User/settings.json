@@ -3,4 +3,14 @@
   "terminal.integrated.scrollback": 10000,
   "git.autofetch": true,
   "files.insertFinalNewline": true,
+  "git.confirmSync": false,
+
+  "[python]": {
+    "editor.tabSize": 4,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnType": true
+  },
+  "github.copilot.enable": {
+    "markdown": "true"
+  }
 }
