@@ -4,6 +4,7 @@ flatpak install -y \
   org.cryptomator.Cryptomator \
   org.gnome.Calculator \
   org.gnome.Evince \
+  org.gnome.Evolution \
   org.gnome.TextEditor \
   org.gnome.Weather \
   org.videolan.VLC 
