@@ -12,5 +12,6 @@
   },
   "github.copilot.enable": {
     "markdown": "true"
-  }
+  },
+  "[typescript]": {}
 }
